@@ -1,28 +1,28 @@
-# Descrição dos Dados
-Este repositório contém os artefatos de dados associados ao artigo "Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies". O objetivo desses dados é apoiar a pesquisa, análise e resultados incluídos no artigo.
+# Data Description
+This repository contains the data artifacts associated with the article "Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies." The purpose of these data is to support the research, analysis, and findings included in the article.
 
-Os dados aqui disponibilizados foram coletados e analisados por meio de dois estudos da literatura, uma Revisão Ad-hoc e uma Revisão Estruturada, organizados para facilitar a reprodução dos resultados descritos no artigo.
+The data provided here were collected and analyzed through two literature studies: an Ad-hoc Review and a Structured Review, organized to facilitate the reproduction of the results described in the article.
 
-## Proveniência dos Dados
-- **Fonte de Coleta:** Os dados foram coletados a partir de estudos de revisão aplicados em sites de organizações de fomento direcionado para a área de segurança e na biblioteca digital (SCOPUS).
-- **Período de Coleta:** A coleta dos dados foi realizada entre [Junho/2022] e [Fevereiro/2023].
-- **Responsáveis pela Coleta:** A coleta e o processamento dos dados foram realizados pelos proprios autores: Clinton Hudson Moreira Pessoa e Guilherme Hortas Travassos.
-- **Conjunto de Artefatos Disponibilizados:**
-  - Full Article - SBES24;
-  - Structured Review Technical Report;
-  - Vulnerability Descriptions (Ad-hoc and Structured Review);
-  - Comparative Vulnerabilities Ad-hoc x Structured Review;
+## Data Provenance
+- **Collection Source:** The data were collected through review studies conducted on security-focused organization websites and the digital library (SCOPUS).
+- **Collection Period:** Data collection took place between [June/2022] and [February/2023].
+- **Data Collection Responsibility:** The data collection and processing were conducted by the authors themselves: Clinton Hudson Moreira Pessoa and Guilherme Hortas Travassos.
+- **Available Artifact Set:**
+  - Full Article - SBES24
+  - Structured Review Technical Report
+  - Vulnerability Descriptions (Ad-hoc and Structured Review)
+  - Comparative Vulnerabilities Ad-hoc x Structured Review
 
-## Declarações Éticas e Legais
-Este conjunto de dados foi coletado em conformidade com as diretrizes éticas e legais aplicáveis. As seguintes considerações foram observadas:
- - **Uso Permitido:** O uso dos dados é permitido exclusivamente para fins de pesquisa e acadêmicos. Qualquer uso comercial dos dados deve ser previamente autorizado pelos responsáveis.
- - **Licenciamento:** Este conjunto de dados está licenciado sob a as orientações disponibilizadas no documento LICENSE.
+## Ethical and Legal Statements
+This dataset was collected in compliance with applicable ethical and legal guidelines. The following considerations have been observed:
+- **Permitted Use:** The use of the data is allowed exclusively for research and academic purposes. Any commercial use of the data must be pre-authorized by the responsible parties.
+- **Licensing:** This dataset is licensed under the guidelines provided in the LICENSE document.
 
-## Requisitos de Armazenamento e Manipulação dos Dados
-- **Capacidade de Armazenamento:** O conjunto de dados requer aproximadamente 165KiB para armazenamento. Certifique-se de que há espaço suficiente disponível antes de iniciar o download.
-- **Formatação e Integridade:** Os arquivos de dados estão disponibilizados em formato .pdf para garantir a integridade e a compatibilidade com ferramentas comuns para acesso.
-- **Backup:** Recomenda-se manter uma cópia de backup dos dados em um local seguro, especialmente se houver modificações ou transformações aplicadas.
+## Data Storage and Handling Requirements
+- **Storage Capacity:** The dataset requires approximately 165KiB of storage space. Please ensure there is sufficient space available before starting the download.
+- **Formatting and Integrity:** The data files are provided in .pdf format to ensure integrity and compatibility with common access tools.
+- **Backup:** It is recommended to keep a backup copy of the data in a secure location, especially if modifications or transformations are applied.
 
-## Como Citar
-Se você utilizar estes dados em sua pesquisa, por favor, cite-os da seguinte forma:    
+## How to Cite
+If you use this data in your research, please cite it as follows:
 _PESSOA, Clinton Hudson Moreira and TRAVASSOS, Guilherme Horta. 2024. Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies. Conference - XXXVIII Simpósio Brasileiro de Engenharia de Software (SBES), Curitiba/PR._
