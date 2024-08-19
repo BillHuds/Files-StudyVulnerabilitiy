@@ -1,4 +1,4 @@
-# README - Descrição dos Dados
+# Descrição dos Dados
 Este repositório contém os artefatos de dados associados ao artigo "Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies". O objetivo desses dados é apoiar a pesquisa, análise e resultados incluídos no artigo.
 
 Os dados aqui disponibilizados foram coletados e analisados por meio de dois estudos da literatura, uma Revisão Ad-hoc e uma Revisão Estruturada, organizados para facilitar a reprodução dos resultados descritos no artigo.
