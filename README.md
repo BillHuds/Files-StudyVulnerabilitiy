@@ -1,5 +1,5 @@
 # Data Description
-This repository contains the data artifacts in the article "Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies." The purpose of these data is to support the research, analysis, and findings included in the article.
+This repository contains the data artifacts in the article "Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies". The purpose of these data is to support the research, analysis, and findings included in the article.
 
 The data provided here were collected and analyzed through two literature studies: an Ad-hoc Review and a Structured Review organized to facilitate the reproduction of the results described in the article.
 
