@@ -8,11 +8,11 @@ The data provided here were collected and analyzed through two literature studie
 - **Collection Period:** Data collection occurred between [June/2022] and [February/2023].
 - **Data Collection Responsibility:** The data collection and processing were conducted by the authors themselves: Clinton Hudson Moreira Pessoa and Guilherme Hortas Travassos.
 - **Available Artifact Set:**
-  - Full Article - SBES24
-  - Structured Review Technical Report
-  - Vulnerability Descriptions (Ad-hoc and Structured Review)
-  - Comparative Vulnerabilities Ad-hoc x Structured Review
-  - License
+  - [Full Article - SBES24](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Full%20Article%20-%20SBES24.pdf)
+  - [Structured Review Technical Report](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Structured%20Review%20Technical%20Report.pdf)
+  - [Vulnerability Descriptions (Ad-hoc and Structured Review)](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Vulnerabilities%20Descriptions.pdf)
+  - [Comparative Vulnerabilities Ad-hoc x Structured Review](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Ad-hoc%20Study%20x%20Structured%20Review.pdf)
+  - [License](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/LICENSE.md)
 
 ## Ethical and Legal Statements
 This dataset was collected in compliance with applicable ethical and legal guidelines. The following considerations have been observed:
