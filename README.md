@@ -12,6 +12,7 @@ The data provided here were collected and analyzed through two literature studie
   - Structured Review Technical Report
   - Vulnerability Descriptions (Ad-hoc and Structured Review)
   - Comparative Vulnerabilities Ad-hoc x Structured Review
+  - License
 
 ## Ethical and Legal Statements
 This dataset was collected in compliance with applicable ethical and legal guidelines. The following considerations have been observed:
