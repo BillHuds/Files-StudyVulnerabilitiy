@@ -20,7 +20,7 @@ This dataset was collected in compliance with applicable ethical and legal guide
 - **Licensing:** This dataset is licensed under the guidelines provided in the LICENSE document.
 
 ## Data Storage and Handling Requirements
-- **Storage Capacity:** The dataset requires approximately 165KiB of storage space. Please ensure there is sufficient space available before starting the download.
+- **Storage Capacity:** The dataset requires approximately 163KiB of storage space. Please ensure there is sufficient space available before starting the download.
 - **Formatting and Integrity:** The data files are provided in .pdf format to ensure integrity and compatibility with common access tools.
 - **Backup:** It is recommended to keep a backup copy of the data in a secure location, especially if modifications or transformations are applied.
 
