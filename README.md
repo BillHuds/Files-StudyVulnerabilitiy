@@ -25,5 +25,5 @@ This dataset was collected in compliance with applicable ethical and legal guide
 - **Backup:** It is recommended to keep a backup copy of the data in a secure location, especially if modifications or transformations are applied.
 
 ## How to Cite
-If you use this data in your research, please cite it as follows:
+If you use this data in your research, please cite it as follows:    
 _PESSOA, Clinton Hudson Moreira and TRAVASSOS, Guilherme Horta. 2024. Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies. Conference - XXXVIII Simpósio Brasileiro de Engenharia de Software (SBES), Curitiba/PR._
