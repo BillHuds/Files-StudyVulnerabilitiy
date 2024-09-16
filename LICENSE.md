@@ -1,5 +1,7 @@
 ## Copyright (c) 2024 Clinton Pessoa And Guilherme Travassos
 
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
 You have the right to:
  - Share — copy and redistribute the material in any format or medium.
  - Replicate — remix, transform, and build upon the material for any purpose. Permitted exclusively for research and academic purposes. Any commercial use of the data must be previously authorized by those responsible.
