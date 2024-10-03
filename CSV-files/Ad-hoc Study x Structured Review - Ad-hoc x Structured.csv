@@ -1,0 +1,32 @@
+Ad hoc Literature Review X Structured Literature Review,,,,
+ADHOC,ID,Report Vulnerabilities,Category,Total number of articles that cite him
+AD13,VUL53,Unauthorized Access,Network,18
+AD26,VUL48,Lack of Proper Authentication Mechanisms,Network,15
+"AD1, AD5",VUL21,Insecure Data Transfer and Storage,Device,13
+AD26,VUL27,Lack of Strong Authentication,Device,13
+AD15,VUL33,Physical Tampering,Device,13
+AD13,VUL37,Weak Access Control,Device,13
+"AD1, AD5",VUL42,Data Leak or Breach,Network,13
+AD11,VUL56,Weak/lack Encryption in Communication,Network,13
+AD14,VUL44,Fake/Malicious Node,Network,12
+"AD12, AD13",VUL4,Insecure Access Management,Application,10
+AD11,VUL38,Weak/leak of Encrypt,Device,9
+"AD3, AD20, AD27",VUL22,Insecure Firmware,Device,8
+AD22,VUL50,Lack Secure Communication Protocols,Network,7
+"AD3, AD12, AD16, AD21",VUL7,Insecure Software,Application,6
+AD14,VUL17,Device Spoofing,Device,6
+"AD10, AD25",VUL31,Obtaining Console Access,Device,6
+"AD12, AD26",VUL1,Broken Authentication,Application,5
+AD4,VUL6,Insecure Management of Data,Application,5
+"AD1, AD5, AD12",VUL16,Default Configuration,Device,5
+AD20,VUL32,Physical Damage,Device,5
+AD2,VUL24,Insecure Password,Device,4
+AD7,VUL54,Unsecured Network,Network,4
+AD2,VUL49,Lack of Strong Password,Network,3
+"AD8, AD12",VUL5,Insecure Interface Configuration,Application,3
+"AD11, AD12",VUL12,Weak/lack In-app Encryption,Application,2
+"AD6, AD12",VUL8,Lack of Active Device Monitoring,Application,1
+AD8,VUL39,Insecure physical interface,Device,1
+AD3,VUL47,Insecure Update Mechanisms,Network,1
+AD18,VUL64,Lack of Technical Support,Peopleware,1
+AD19,VUL69,Vendor Security Posture,Peopleware,1

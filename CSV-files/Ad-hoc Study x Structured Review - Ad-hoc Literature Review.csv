@@ -1,0 +1,33 @@
+Ad hoc Literature Review,
+ID,Report Vulnerabilities
+AD22,Account Lockout
+AD11,Application vulnerabilities
+AD12,Incorrect access control
+AD23,Insecure 3rd party components
+AD1,Insecure Data Transfer and Storage
+AD19,Insecure Default Settings
+AD8,Insecure Ecosystem Interfaces
+AD7,Insecure Network Services
+AD20,Insecure or Outdated Components
+AD3,Insecure Update Mechanisms
+AD4,Insufficient Physical Security
+AD5,Insufficient Privacy Protection
+AD13,Intrusion ignorance
+AD6,Lack of Device Management
+AD10,Lack of encryption
+AD14,Lack of Trusted Execution Environment
+AD9,Manipulating the code execution
+AD24,Obtaining console access
+AD15,Outdated software
+AD16,Overly large attack surface
+AD21,TCP/IP Stacks
+AD25,Two-factor Authentication
+AD26,Update Location Writable
+AD17,User interaction
+AD27,Username Enumeration
+AD18,Vendor security posture
+AD2,Weak Passwords
+,
+,
+,
+"* White markings highlight vulnerabilities that were not associated with the others in the other study, and for this reason are not included in the ""Ad-hoc x Structured"" table",

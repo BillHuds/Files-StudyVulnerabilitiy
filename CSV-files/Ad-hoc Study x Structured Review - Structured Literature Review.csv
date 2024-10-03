@@ -1,0 +1,74 @@
+Structured Literature Review,,,
+ID,Report Vulnerabilities,Category,Total number of articles that cite him
+VUL1,Broken Authentication,Application,5
+VUL2,Buffer Overflow,Application,7
+VUL3,Data Inconsistency,Application,2
+VUL4,Insecure Access Management,Application,10
+VUL5,Insecure Interface Configuration,Application,3
+VUL6,Insecure Management of Data,Application,5
+VUL7,Insecure Software,Application,6
+VUL8,Lack of Active Device Monitoring,Application,1
+VUL9,Low Quality Level Code,Application,1
+VUL10,Non-repudiation,Application,4
+VUL11,SQL Injections,Application,6
+VUL12,Weak/lack In-app Encryption,Application,2
+VUL13,Malicious code in-app,Application,3
+VUL14,Systems Low-cost,Device,1
+VUL15,Channel Voice,Device,2
+VUL16,Default Configuration,Device,5
+VUL17,Device Spoofing,Device,6
+VUL18,Electromagnetic Emanations Leaking,Device,5
+VUL19,Energy Restraints,Device,5
+VUL20,Heterogeneous Interaction,Device,4
+VUL21,Insecure Data Transfer and Storage,Device,13
+VUL22,Insecure Firmware,Device,8
+VUL23,Insecure Initialization,Device,3
+VUL24,Insecure Password,Device,4
+VUL25,Insufficient Testing,Device,2
+VUL26,Lack of Side Channel Protection,Device,10
+VUL27,Lack of Strong Authentication,Device,13
+VUL28,Low Computing Power,Device,12
+VUL29,Low Data Transmission Range,Device,2
+VUL30,Malicious Code Injection,Device,6
+VUL31,Obtaining Console Access,Device,6
+VUL32,Physical Damage,Device,6
+VUL33,Physical Tampering,Device,13
+VUL34,Sleep Deprivation,Device,8
+VUL35,Tag Cloning,Device,2
+VUL36,Unprotected Physical Access,Device,12
+VUL37,Weak Access Control,Device,13
+VUL38,Weak/leak of Encrypt,Device,9
+VUL39,Insecure physical interface,Device,1
+VUL40,Channel Interference,Network,11
+VUL41,Communication Overhead,Network,1
+VUL42,Data Leak or Breach,Network,13
+VUL43,Eavesdropping,Network,11
+VUL44,Fake/Malicious Node,Network,12
+VUL45,Heterogeneous Communication,Network,7
+VUL46,Insecure Server,Network,3
+VUL47,Insecure Update Mechanisms,Network,1
+VUL48,Lack of Proper Authentication Mechanisms,Network,15
+VUL49,Lack of Strong Password,Network,3
+VUL50,Lack Secure Communication Protocols,Network,7
+VUL51,Configure network repeatedly,Network,1
+VUL52,Spoofing Signal,Network,3
+VUL53,Unauthorized Access,Network,18
+VUL54,Unsecured Network,Network,4
+VUL55,Unused Ports Enable,Network,5
+VUL56,Weak/lack Encryption in Communication,Network,13
+VUL57,Physical properties of the power system,Network,2
+VUL58,Wifi De-authentication,Network,1
+VUL59,Insecure traffic control,Network,1
+VUL60,Centralized architecture,Network,2
+VUL61,Access Malicious Link,Peopleware,3
+VUL62,Identifying the Product Vendor,Peopleware,1
+VUL63,Knowledge the System,Peopleware,3
+VUL64,Lack of Technical Support,Peopleware,1
+VUL65,Personal and Social Circumstances,Peopleware,5
+VUL66,Phishing,Peopleware,10
+VUL67,Social Engineering,Peopleware,6
+VUL68,Untrusted Device Acquisition,Peopleware,1
+VUL69,Vendor Security Posture,Peopleware,1
+,,,
+,,,
+"* White markings highlight vulnerabilities that were not associated with the others in the other study, and for this reason are not included in the ""Ad-hoc x Structured"" table",,,
