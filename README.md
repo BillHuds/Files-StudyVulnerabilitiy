@@ -11,7 +11,7 @@ The data provided here were collected and analyzed through two literature studie
   - [Full Article - SBES24](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Full%20Article%20-%20SBES24.pdf)
   - [Structured Review Technical Report](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Structured%20Review%20Technical%20Report.pdf)
   - [Vulnerability Descriptions (Ad-hoc and Structured Review)](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Vulnerabilities%20Descriptions.pdf)
-  - [Comparative Vulnerabilities Ad-hoc x Structured Review](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Ad-hoc%20Study%20x%20Structured%20Review.pdf)
+  - [Comparative Vulnerabilities Ad-hoc x Structured Review](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Comparative%20Vulnerabilities%20Ad-hoc%20Study%20x%20Structured%20Review.pdf)
   - [License](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/LICENSE.md)
 
 ## Ethical and Legal Statements
