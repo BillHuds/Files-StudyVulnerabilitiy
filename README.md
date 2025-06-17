@@ -14,6 +14,7 @@ The data provided here were collected and analyzed through two literature studie
   - [Comparative Vulnerabilities Ad-hoc x Structured Review](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/Comparative%20Vulnerabilities%20Ad-hoc%20Study%20x%20Structured%20Review.pdf)
   - [License](https://github.com/BillHuds/Files-StudyVulnerabilitiy/blob/main/LICENSE.md)
   - [CSV-Files](https://github.com/BillHuds/Files-StudyVulnerabilitiy/tree/main/CSV-files)
+  - [CodingsQDAminer]()
 
 ## Ethical and Legal Statements
 This dataset was collected in compliance with applicable ethical and legal guidelines. The following considerations have been observed:
